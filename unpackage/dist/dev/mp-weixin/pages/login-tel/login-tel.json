@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "输入手机号",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "lines": "/components/Lines/Lines"
+  }
+}

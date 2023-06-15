@@ -1,0 +1,17 @@
+.other-text {
+  display: flex;
+  padding: 50rpx 0;
+
+  .text {
+    line-height: 0rpx;
+    padding: 0 10rpx;
+  }
+
+  &::before,
+  &::after {
+    flex: 1;
+    content: "";
+    height: 2rpx;
+    background-color: #ccc;
+  }
+}
